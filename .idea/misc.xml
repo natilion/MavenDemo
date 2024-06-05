@@ -5,6 +5,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/MD/pom.xml" />
+        <option value="$PROJECT_DIR$/MavenDemo2/pom.xml" />
       </list>
     </option>
   </component>
